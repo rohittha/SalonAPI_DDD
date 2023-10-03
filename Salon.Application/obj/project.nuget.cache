@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVznvb4LlTDKippKcToMLtIB+CYtBgy2sohOGo0Zd54mlwFviqrQoR+0Yj2P/kpsjuGDivTCepko5zrzH7/x8g==",
+  "success": true,
+  "projectFilePath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
