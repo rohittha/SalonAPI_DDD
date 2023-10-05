@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NjRYEib0Y+EY6f0TihaiZgrIrR/5LTyrBvc7UvmMGwI+Ilb2rpg4Bg6PH6Q2rqpZauRYqn+3mCQQeOQHy5b0Qg==",
+  "dgSpecHash": "w0JrQhVCMztGgNLcVt5yfkS8gvlnGzggRIRB2pUskMVZeJWFQqBpoQoS3/KpnirVS4U36TShXbl5SRNk45coog==",
   "success": true,
   "projectFilePath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.API\\Salon.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.22\\microsoft.aspnetcore.cryptography.internal.6.0.22.nupkg.sha512",

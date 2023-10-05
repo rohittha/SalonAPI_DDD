@@ -21,6 +21,7 @@ namespace Salon.Application.Authentication.Queries.Login
 
         public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery command, CancellationToken cancellationToken)
         {
+            await Task.CompletedTask;    // Will Remove this when we add async logic here according to the video
             // 1. Check if user exists
             if (_userRepository.GetUserByEmail(command.Email) is not User user)
             {
