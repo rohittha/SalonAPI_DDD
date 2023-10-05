@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {}
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
         "projectName": "Salon.Contracts",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

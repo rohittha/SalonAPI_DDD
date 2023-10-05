@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+KZ7xrb8HUNTMhi8s6J3HoOGjZiqnhNTd+EdhcG6wUpyizS/YuY1WbT7NrHUPVXxZ4zQ8/AFbWt4pogruYl8A==",
+  "dgSpecHash": "wT7K1+iQywn6VAP0oRaQikQ3+UO7ulNWQoED+WMzwtgzStwkFO1Pqrb+vri5syCdigljeD2SnVX+U/eI12J8IQ==",
   "success": true,
-  "projectFilePath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
+  "projectFilePath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -22,3 +22,15 @@ D:\SELFSTUDY\DotNetCore\Salon_Backup3_TillRepos\Salon.Contracts\obj\Debug\net6.0
 D:\SELFSTUDY\DotNetCore\Salon_Backup3_TillRepos\Salon.Contracts\obj\Debug\net6.0\refint\Salon.Contracts.dll
 D:\SELFSTUDY\DotNetCore\Salon_Backup3_TillRepos\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.pdb
 D:\SELFSTUDY\DotNetCore\Salon_Backup3_TillRepos\Salon.Contracts\obj\Debug\net6.0\ref\Salon.Contracts.dll
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\bin\Debug\net6.0\Salon.Contracts.deps.json
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\bin\Debug\net6.0\Salon.Contracts.dll
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\bin\Debug\net6.0\Salon.Contracts.pdb
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.csproj.AssemblyReference.cache
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.AssemblyInfoInputs.cache
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.AssemblyInfo.cs
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.csproj.CoreCompileInputs.cache
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.dll
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\refint\Salon.Contracts.dll
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\Salon.Contracts.pdb
+D:\SELFSTUDY\Git-rohittha\SalonAPI_DDD\Salon\Salon.Contracts\obj\Debug\net6.0\ref\Salon.Contracts.dll

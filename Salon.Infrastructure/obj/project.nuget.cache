@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpyGqhyZDuP4+HAUAvRU09tq9XeziEvZ+3BVWC8trwo2S+uZ8hPSASVfaKHygKUYnBtaqaI+mFrlfdmdVdnUnQ==",
+  "dgSpecHash": "2ZsRXMwoYXS35dUO3miDeBXGdp4Ti6Am5VDyf26Br9Fybs0s8zI5zo2rTIPjtEwNM4xBcw819XrixskYwuJAgA==",
   "success": true,
-  "projectFilePath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
+  "projectFilePath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aiuu50bO0fmMSEnCN4wAeXG2ue1Lh02uWnHDugu6Kx03OkNnQM8FOmPxwewZDoMvThO34mlePW9GGaB7Ip3mlw==",
+  "dgSpecHash": "oDu2+STSOTNJLfATvASzeaGmu/r5lGq/kG6Dy2Qfqd9upwm4Ecpa5mCqCLCxSdXfcTv/BIgLjA4hy8u7rsD1lA==",
   "success": true,
-  "projectFilePath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj",
+  "projectFilePath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
   ],

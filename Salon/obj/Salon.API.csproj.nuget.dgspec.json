@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon\\Salon.API.csproj": {}
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon\\Salon.API.csproj": {}
   },
   "projects": {
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj",
         "projectName": "Salon.Application",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj": {
-                "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj"
+              "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj": {
+                "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
         "projectName": "Salon.Contracts",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj",
         "projectName": "Salon.Domain",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\Salon.Domain.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\Salon.Domain.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Domain\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,14 +201,14 @@
         }
       }
     },
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
         "projectName": "Salon.Infrastructure",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -229,8 +229,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj": {
-                "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj"
+              "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj": {
+                "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj"
               }
             }
           }
@@ -286,14 +286,14 @@
         }
       }
     },
-    "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon\\Salon.API.csproj": {
+    "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon\\Salon.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon\\Salon.API.csproj",
+        "projectUniqueName": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon\\Salon.API.csproj",
         "projectName": "Salon.API",
-        "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon\\Salon.API.csproj",
+        "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon\\Salon.API.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon\\obj\\",
+        "outputPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -314,14 +314,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj": {
-                "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Application\\Salon.Application.csproj"
+              "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj": {
+                "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Application\\Salon.Application.csproj"
               },
-              "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
-                "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Contracts\\Salon.Contracts.csproj"
+              "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj": {
+                "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Contracts\\Salon.Contracts.csproj"
               },
-              "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj": {
-                "projectPath": "D:\\SELFSTUDY\\DotNetCore\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj"
+              "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj": {
+                "projectPath": "D:\\SELFSTUDY\\Git-rohittha\\SalonAPI_DDD\\Salon\\Salon.Infrastructure\\Salon.Infrastructure.csproj"
               }
             }
           }

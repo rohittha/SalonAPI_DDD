@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Salon.Application.Services.Authentication.Common
+namespace Salon.Application.Authentication.Common
 {
-    public record AuthenticationResult(
-        User User,
-        string Token
+    public record AuthenticationResult
+    (
+        User User, string Token
     );
 }
