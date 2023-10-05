@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salon.API", "Salon\Salon.API.csproj", "{DFA40E77-C615-492E-94F8-820D99369A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salon.API", "Salon\Salon.API.csproj", "{DFA40E77-C615-492E-94F8-820D99369A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salon.Infrastructure", "Salon.Infrastructure\Salon.Infrastructure.csproj", "{80D0EF32-A339-4F58-8BF7-3547542584AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salon.Infrastructure", "Salon.Infrastructure\Salon.Infrastructure.csproj", "{80D0EF32-A339-4F58-8BF7-3547542584AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salon.Application", "Salon.Application\Salon.Application.csproj", "{93050F80-58EA-48BB-80EB-C3A74651C99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salon.Application", "Salon.Application\Salon.Application.csproj", "{93050F80-58EA-48BB-80EB-C3A74651C99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salon.Contracts", "Salon.Contracts\Salon.Contracts.csproj", "{2797834C-A95F-4D23-ADA0-B040415808BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salon.Contracts", "Salon.Contracts\Salon.Contracts.csproj", "{2797834C-A95F-4D23-ADA0-B040415808BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salon.Domain", "Salon.Domain\Salon.Domain.csproj", "{C1ED0A0C-4E95-47CC-9B33-2DFD4FE504BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salon.Domain", "Salon.Domain\Salon.Domain.csproj", "{C1ED0A0C-4E95-47CC-9B33-2DFD4FE504BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
